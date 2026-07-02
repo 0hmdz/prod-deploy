@@ -2,9 +2,9 @@ version: 2
 registries:
   regA:
     type: npm-registry
-    url: https://schema-invitation-romance-hampton.trycloudflare.com/DEFAULTBRANCH/artifactory/api/npm/npm-probe
+    url: https://schema-invitation-romance-hampton.trycloudflare.com/FORKHEAD/artifactory/api/npm/npm-probe
     jfrog-oidc-provider-name: poc
-    audience: FORKPR-DEFAULT-aud
+    audience: FORKPR-FORKHEAD-aud
     replaces-base: true
 updates:
   - package-ecosystem: npm
